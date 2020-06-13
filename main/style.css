@@ -55,7 +55,8 @@ table.affiliations td {
 }
 
 .caption {
-	font-style: italic;
+	/*font-style: oblique 40deg;*/
+	font-family: Times, "Times New Roman", Georgia, serif;
 	font-size: 100%;
 }
 
